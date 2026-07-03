@@ -1,4 +1,5 @@
-FROM openlistteam/openlist:v4.1.10
+FROM openlistteam/openlist:latest
+# FROM openlistteam/openlist:v4.1.10
 
 # Install su-exec for user switching (if not already present)
 USER root
